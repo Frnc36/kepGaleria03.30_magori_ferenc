@@ -10,7 +10,7 @@ export default class Kepek {
 
   megjelenit() {
     this.#lista.forEach((elem, index) => {
-      new Kep(elem.src, elem.cim, elem.leiras, index, this.szuloElem);
+      new Kep(elem, index, this.szuloElem);
     });
   }
 }
