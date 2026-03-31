@@ -1,0 +1,22 @@
+img {
+  width: 100%;
+}
+
+.kartya {
+  width: 300px;
+  border: 1px solid gray;
+}
+
+.tarolo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.kivalasztott {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid red;
+}
