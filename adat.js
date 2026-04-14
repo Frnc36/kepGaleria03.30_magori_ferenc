@@ -1,17 +1,17 @@
 export const kepekLista = [
   {
-    src: "/kepek/random_picture.jpg",
-    cim: "OwO",
-    leiras: "szia",
+    src: "/kepek/pusheen_sitbook.png",
+    cim: "Pushenn könyvet olvas",
+    leiras: "Pusheen Könyv",
   },
   {
-    src: "/kepek/random_picture.jpg",
-    cim: "UwU",
-    leiras: "hali",
+    src: "/kepek/pusheen_in_donuts.jpg",
+    cim: "Pusheen Fánk",
+    leiras: "Fánk",
   },
   {
-    src: "/kepek/random_picture.jpg",
-    cim: "VMI",
-    leiras: "valami",
+    src: "/kepek/pusheen_toasthead.jpg",
+    cim: "Pusheen Pirítós",
+    leiras: "Pirítós",
   },
 ];

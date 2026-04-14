@@ -8,8 +8,6 @@ const kivalasztElem = document.querySelector(".kivalasztott");
 new Kepek(kepekLista, szuloElem);
 new Nagykep(kepekLista[0], nagykepElem);
 
-
 window.addEventListener("kivalaszt", function (event) {
-
   new Nagykep(kepekLista[event.detail], nagykepElem);
 });
